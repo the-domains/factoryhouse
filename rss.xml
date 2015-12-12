@@ -4,8 +4,15 @@
         <description><![CDATA[factory house]]></description>
         <link>https://thegrid.ai/factoryhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 19:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 19:24:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/factoryhouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Poster description</p>]]></description>
+            <link>https://thegrid.ai/factoryhouse/7827dec6-7967-404d-a72c-4819038152a9/index.html</link>
+            <guid isPermaLink="false">7827dec6-7967-404d-a72c-4819038152a9</guid>
+            <pubDate>Sat, 12 Dec 2015 19:24:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Something post]]></title>
             <description><![CDATA[<article><h1>Something post</h1><p>Text text </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c23f2ba4-1532-44da-8a47-f8e8ba46c4bd.jpg"></article>]]></description>
