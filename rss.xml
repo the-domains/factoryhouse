@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[factoryhouse]]></title>
-        <description><![CDATA[factoryhouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[factory house]]></title>
+        <description><![CDATA[factory house]]></description>
+        <link>https://thegrid.ai/factoryhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 18:37:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 19:24:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/factoryhouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Something post]]></title>
+            <description><![CDATA[<article><h1>Something post</h1><p>Text text </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c23f2ba4-1532-44da-8a47-f8e8ba46c4bd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/factoryhouse/something-post/index.html</link>
+            <guid isPermaLink="false">2a6c00df-2d98-4a4b-b9bf-70851e15cf3e</guid>
+            <pubDate>Sat, 12 Dec 2015 19:24:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/factoryhouse/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">0d3c153f-8be8-4678-94fe-c67f75a2515a</guid>
             <pubDate>Sat, 12 Dec 2015 18:37:49 GMT</pubDate>
         </item>
