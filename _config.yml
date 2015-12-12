@@ -1,7 +1,7 @@
 name: factoryhouse
 favicon: null
-layout_spectrum: 0.6435219757258892
-typography_spectrum: 0.0788330384530127
+layout_spectrum: 0.84338
+typography_spectrum: 0.3801
 title: factory house
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#A2E3C4'
   brandStrength: 0.5834551823791116
   lightness: 0.4096243542153388
-  saturation: 0.18900861404836178
+  saturation: 0.4375
   rhythmicContrast: 0.6264614195097238
 purpose: []
